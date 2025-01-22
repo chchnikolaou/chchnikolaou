@@ -24,7 +24,7 @@ I am a Multi Platform Developer with diverse experience in several fields, combi
 * Strong knowledge in developing android-based mobile applications in Android Studio.
 
 # 🎓 Academic Projects
-* Currently Working on my major graduation project: `Health Care System Provider and Electronic Medical Records Management`
+* Currently working on my major graduation project: `Health Care System Provider and Electronic Medical Records Management`
 
 
 ## 🔧 Skills
