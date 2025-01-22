@@ -3,6 +3,7 @@
 I am a Multi Platform Developer with diverse experience in several fields, combining creativity, innovation and technical expertise to craft impactful solutions across different platforms. 
 
 ## Expertise
+
 # 🎮 Minecraft Development
 * Skilled in creating unique custom plugins, apis and game mechanics in Minecraft.
 * Extensive Experience with Spigot/Bukkit/Paper API.
@@ -28,6 +29,7 @@ I am a Multi Platform Developer with diverse experience in several fields, combi
 
 
 ## 🔧 Skills
+
 # **Programming Languages**
 * ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
 * ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -51,6 +53,7 @@ I am a Multi Platform Developer with diverse experience in several fields, combi
 * ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)  
 
 ## 📕 Currently
+
 * 🔬 I’m learning more about ASP.NET Web App Framework and Ruby On Rails.
 * 💻 I want to dive in more Front-End technologies such as React.
 
